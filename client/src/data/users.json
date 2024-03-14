@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 4,
+            "firstName": "Corey",
+            "lastName": "Carter",
+            "admin": true,
+            "profileImage": "https://robohash.org/Corey4.png?set=set4",
+            "activities": [
+                {
+                    "activityID": 7,
+                    "date": "2019-01-01",
+                    "caloriesBurned": 250,
+                    "distance": 3.0,
+                    "image": "https://example.com/activity7a.jpg",
+                    "description": "walk in the park"
+                }
+            ]
+        },  
+        {
+            "id": 1,
+            "firstName": "Terry",
+            "lastName": "Medhurst",
+            "admin": false,
+            "profileImage": "https://robohash.org/Terry1.png?set=set4",
+            "activities": [
+                {
+                    "activityID": 1,
+                    "date": "2019-01-01",
+                    "caloriesBurned": 200,
+                    "distance": 2.5,
+                    "image": "https://example.com/activity1a.jpg",
+                    "description": "jog in Central Park"
+                },
+                {
+                    "activityID": 2,
+                    "date": "2019-01-02",
+                    "caloriesBurned": 250,
+                    "distance": 3.0,
+                    "image": "https://example.com/activity2a.jpg",
+                    "description": "danicn in my room"
+                }
+            ]
+        }
+    ]
+}
